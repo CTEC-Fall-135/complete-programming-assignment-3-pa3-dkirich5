@@ -4,7 +4,6 @@ Date: 10/14/2025
 Assignment: Programming Assignment 3
 */
 
-namespace ClassDemo
 using System;
 
 namespace ClassDemo
@@ -26,8 +25,7 @@ namespace ClassDemo
         // Automatic property for ID
 
         public int ID
-        {
-            get; set: }
+        { get; set: }
 
         // Default constructor
 
@@ -89,3 +87,4 @@ namespace ClassDemo
         }
     }
 }
+

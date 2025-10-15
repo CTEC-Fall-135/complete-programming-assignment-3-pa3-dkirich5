@@ -1,4 +1,10 @@
-﻿namespace ClassDemo
+﻿/*
+Author: Daniel Kirichenko
+Date: 10/14/2025
+Assignment: Programming Assignment 3
+*/
+
+namespace ClassDemo
 using System;
 
 namespace ClassDemo
@@ -83,4 +89,3 @@ namespace ClassDemo
         }
     }
 }
-
